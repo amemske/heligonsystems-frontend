@@ -1,0 +1,19 @@
+.banner-bg{
+    background-image: url("../img/header-img4-dark.jpg");
+}
+
+.breadcrumb_bg{
+    background-image: url("../img/header-img3.png");
+    background-size: cover;
+}
+
+.mobile-services-bg{
+    background-image: url("../img/bg/h3_services_bg.webp");
+}
+
+.light-blue-bg{
+    background-image: url("../img/bg/inner_services_bg.webp");
+}
+.about-parallax-bg {
+    background-image: url("../img/about-bg.webp");
+}
