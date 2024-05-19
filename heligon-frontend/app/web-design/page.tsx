@@ -81,7 +81,7 @@ export default  async function Page() {
                                     1
                                 </div>
                                 <div className="services__item-top-title">
-                                    <h2 className="title"><a href='#'>Business analysis</a></h2>
+                                    <h2 className="title">Business analysis</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">
@@ -97,7 +97,7 @@ export default  async function Page() {
                                     2
                                 </div>
                                 <div className="services__top-title">
-                                    <h2 className="title"><a href='#'>Front-end design and development</a></h2>
+                                    <h2 className="title">Front-end design and development</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">
@@ -113,7 +113,7 @@ export default  async function Page() {
                                     3
                                 </div>
                                 <div className="services__item-top-title">
-                                    <h2 className="title"><a href='#'>Back-end development</a></h2>
+                                    <h2 className="title">Back-end development</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">
@@ -129,7 +129,7 @@ export default  async function Page() {
                                     4
                                 </div>
                                 <div className="services__top-title">
-                                    <h2 className="title"><a href='#'>Continuous support & iteration</a></h2>
+                                    <h2 className="title">Continuous support & iteration</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">

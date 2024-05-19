@@ -35,9 +35,9 @@ export default function RootLayout({
       </div>
       <Footer/>
 
-      <script src="/assets/js/vendor/jquery-3.6.0.min.js"></script>
+    {/* <script src="/assets/js/vendor/jquery-3.6.0.min.js"></script> */}
     <script src="/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/js/jquery.appear.js"></script>
+    {/* <script src="/assets/js/jquery.appear.js"></script>
     <script src="/assets/js/gsap.js"></script>
     <script src="/assets/js/ScrollTrigger.js"></script>
     <script src="/assets/js/SplitText.js"></script>
@@ -45,8 +45,8 @@ export default function RootLayout({
     <script src="/assets/js/jquery.parallaxScroll.min.js"></script>
     <script src="/assets/js/swiper-bundle.js"></script>
     <script src="/assets/js/wow.min.js"></script>
-    <script src="/assets/js/aos.js"></script>
-    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/aos.js"></script> */}
+    {/* <script src="/assets/js/main.js"></script> */}
     
       </body>
     </html>

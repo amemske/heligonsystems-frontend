@@ -91,7 +91,7 @@ export default  async function Page() {
                                     <i className="fa-solid fa-hammer"></i>
                                 </div>
                                 <div className="services__top-title">
-                                    <h2 className="title"><a href='#'>FIXED PRICING</a></h2>
+                                    <h2 className="title">FIXED PRICING</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">
@@ -108,7 +108,7 @@ export default  async function Page() {
                                     <i className="fa-solid fa-gear"></i>
                                 </div>
                                 <div className="services__top-title">
-                                    <h2 className="title"><a href='#'>FEATURE-BASED PRICING</a></h2>
+                                    <h2 className="title">FEATURE-BASED PRICING</h2>
                                 </div>
                             </div>
                             <div className="services__content-three">

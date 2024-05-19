@@ -1,5 +1,7 @@
-(function($) {
+$(document).ready(function() {
     "use strict";
+
+   
 
     /*=============================================
     	=    		 Preloader			      =
@@ -27,17 +29,20 @@
 
     //Mobile Nav Hide Show
     if ($('.tgmobile__menu').length) {
+       
 
         var mobileMenuContent = $('.tgmenu__wrap .tgmenu__main-menu').html();
         $('.tgmobile__menu .tgmobile__menu-box .tgmobile__menu-outer').append(mobileMenuContent);
 
         //Dropdown Button
         $('.tgmobile__menu li.menu-item-has-children .dropdown-btn').on('click', function() {
+           
             $(this).toggleClass('open');
             $(this).prev('ul').slideToggle(300);
         });
         //Menu Toggle Btn
         $('.mobile-nav-toggler').on('click', function() {
+            alert('testing 123');
             $('body').addClass('mobile-menu-visible');
         });
 

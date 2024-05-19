@@ -81,7 +81,7 @@ export default  async function Page() {
                         <div className="services__item-five">
 
                             <div className="services__content-five">
-                                <h2 className="title"><a href='#'>Fitness Solutions</a></h2>
+                                <h2 className="title">Fitness Solutions</h2>
                                 <p>Our team of engineers create diverse range of fitness applications, covering everything from nutrition to personalized workout routines and activity tracking. These apps are meticulously tailored for both Android and iOS
                                     platforms, seamlessly integrating features like synchronization with native health services (HealthKit, GoogleFit), geolocation services (Google Maps, MapKit), and more.</p>
 
@@ -98,7 +98,7 @@ export default  async function Page() {
                         <div className="services__item-five">
 
                             <div className="services__content-five">
-                                <h2 className="title"><a href='#'>E-Commerce Platform</a></h2>
+                                <h2 className="title">E-Commerce Platform</h2>
                                 <p>Our e-commerce solutions empower businesses to thrive in the digital marketplace. With a focus on user experience and scalability, our team crafts dynamic platforms tailored to client needs. Our e-commerce apps seamlessly
                                     integrate payment gateways, inventory management systems, and customer relationship tools, ensuring a seamless shopping experience across web and mobile platforms.</p>
 
@@ -115,7 +115,7 @@ export default  async function Page() {
                         <div className="services__item-five">
 
                             <div className="services__content-five">
-                                <h2 className="title"><a href='#'>Education & Learning App</a></h2>
+                                <h2 className="title">Education & Learning App</h2>
                                 <p>Transform education with our immersive learning applications. Our educational solutions revolutionize the way users engage with content, offering interactive lessons, personalized learning paths, and comprehensive analytics.
                                     Whether it's language learning, skill development, or academic tutoring, our apps empower learners to achieve their goals with ease.</p>
 
@@ -132,7 +132,7 @@ export default  async function Page() {
                         <div className="services__item-five">
 
                             <div className="services__content-five">
-                                <h2 className="title"><a href='#'>Social Networking App</a></h2>
+                                <h2 className="title">Social Networking App</h2>
                                 <p>Elevate your social networking experience with our innovative solutions. Our team designs cutting-edge social platforms that foster meaningful connections and engagement. From intuitive user interfaces to robust backend
                                     infrastructure, our apps harness the power of social interaction, offering features like real-time messaging, multimedia sharing, and advanced privacy controls.</p>
 
@@ -246,8 +246,8 @@ export default  async function Page() {
 
                                     <div className="accordion-item">
                                         <h5 className="accordion-header" id="headingTwo">
-                                            <button className="accordion-button text-heading-5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"/>
-                                        What makes your Mobile Development services exceptional?
+                                            <button className="accordion-button text-heading-5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        What makes your Mobile Development services exceptional? </button>
                                 </h5>
                                 <div className="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
                                     <div className="accordion-body">Our Mobile Development expertise transcends traditional boundaries. We offer a wide range of services tailored to the mobile ecosystem, encompassing native and cross-platform app development, responsive design, mobile UI/UX optimization, backend integration, and continuous support. This comprehensive approach guarantees that your mobile project excels across diverse platforms and devices.</div>

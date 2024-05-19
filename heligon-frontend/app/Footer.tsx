@@ -37,7 +37,7 @@ export default  async function Header(props : FooterProps) {
                                                 <i className="fa-solid fa-envelope"></i>
                                             </div>
                                             <div className="content">
-                                                <a href="mailto:info@apexa.com">info@heligonsystems.com</a>
+                                                <a href="mailto:info@heligonsystems.com">info@heligonsystems.com</a>
                                             </div>
                                         </li>
                                         <li>
