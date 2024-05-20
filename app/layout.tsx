@@ -7,8 +7,11 @@ import { GoogleTagManager } from "@next/third-parties/google";
 
 
 export const metadata: Metadata = {
-  title: "Webdesign and Mobile Development - Heligon Systems",
-  description: "Best Web and Mobile Development Company",
+  title: {
+    default: "Kenya Web Design and Website Development Company",
+    template: "%s - Heligon Systems"
+  },
+  description: "Leading web development and design company delivering affordable modern and responsive web design services in Kenya.",
 };
 
 export default function RootLayout({
