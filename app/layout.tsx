@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import { GoogleTagManager } from "@next/third-parties/google";
 
 
+
 export const metadata: Metadata = {
   title: {
     default: "Kenya Web Design and Website Development Company",

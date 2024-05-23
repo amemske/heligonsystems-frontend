@@ -17,3 +17,10 @@
 .about-parallax-bg {
     background-image: url("../img/about-bg.webp");
 }
+
+.slick-slide p, .slick-slide h3 {
+    line-height: 100px;
+    text-align: center;
+    background: red;
+
+}

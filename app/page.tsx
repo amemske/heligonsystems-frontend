@@ -1,7 +1,13 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
+
+import HomeCarousel from "./HomeCarousel";
+
+
+
 export default function Home() {
+   
   return (
     
 
@@ -207,6 +213,13 @@ export default function Home() {
 
 </section>
 
+<section className="brand-area">
+            <div className="container">
+
+<HomeCarousel/>
+           
+            </div>
+            </section>
 
    
    
