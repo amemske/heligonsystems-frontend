@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaWhatsapp } from "react-icons/fa";
 
 interface FooterProps {
 
@@ -13,6 +14,10 @@ export default  async function Header(props : FooterProps) {
         <>
         
         <footer>
+           <a href="https://api.whatsapp.com/send?phone=+254727781090&text=Hello%21%20How%20can%20we%20assist%20you%20today%3F%20We%27re%20here%20to%20help%20with%20any%20questions%20you%20have%20about%20our%20web%20design%20services." className="floating" target="_blank">
+           <FaWhatsapp />
+</a>
+
         <div className="footer__area-four">
             <div className="container">
                 <div className="footer__top-three footer__top-four">
