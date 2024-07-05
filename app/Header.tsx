@@ -62,23 +62,23 @@ export default  function Header(props : HeaderProps) {
       
                                     <ul className="navigation">
                                         <li className={pathname  == "/" ? "active" : ""}><Link href="/">Home</Link></li>
-                                        <li className="menu-item-has-children">
+                                       <li className="menu-item-has-children">
                                             <a href="#">Web Development &nbsp; <i className="fa-solid fa-angle-down"></i></a>
                                             <ul className="sub-menu">
                                                 <li><a href='/web-design'>Web Design Services</a></li>
                                                 <li ><a href='/web-development'>Web App Development</a></li>
                                             </ul>
                                         </li>
+                                        <li className={pathname  == "/portfolio" ? "active" : ""}><Link href="/portfolio">Portfolio</Link></li>
+                                        <li className={pathname  == "/pricing" ? "active" : ""}><Link href="/pricing">Pricing</Link></li>
+                                        
                                         <li className={pathname  == "/mobile-development" ? "active" : ""}><Link href="/mobile-development">Mobile Development </Link>
 
                                         </li>
 
-                                        <li className={pathname  == "/our-approach" ? "active" : ""}><Link href="/our-approach">Our Approach</Link>
-
-                                        </li>
-                                        <li ><Link href="/about-us">About Us</Link>
-
-                                        </li>
+                                       
+                                        
+                                        
 
                                     </ul>
                                 </div>

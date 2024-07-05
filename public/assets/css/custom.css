@@ -43,3 +43,27 @@
 .my-float{
 	margin-top:16px;
 }
+
+.team__details-content .title {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.team__details-content .position {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1;
+    color: #1da8b2;
+    margin-bottom: 20px;
+}
+
+.breadcrumb i {
+    position: relative;
+    top: 3px;
+    color: #ffffffab;
+}
+.pricing__box{
+    padding: 50px 50px;
+}
