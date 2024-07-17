@@ -67,3 +67,7 @@
 .pricing__box{
     padding: 50px 50px;
 }
+/* hidden pricing */
+.pricing__price{
+    display: none;
+}
