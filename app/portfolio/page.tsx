@@ -39,26 +39,27 @@ export default  async function Page() {
                     <div className="row align-items-center">
                         <div className="col-36">
                             <div className="team__details-img">
-                                <a href='https://smetalks.co.ke/' target='_blank'>
-                                <img src="/assets/img/sme-business-magazine.png" alt=""/>
+                                <a href='https://sanitarybins.co.ke/' target='_blank'>
+                                <img src="/assets/img/sanitary-bins-screenshot.jpg" alt=""/>
                                 </a>
                             </div>
                         </div>
                         <div className="col-64">
                             <div className="team__details-content">
-                                <h2 className="title">SME Business Magazine</h2>
+                                <h2 className="title">Sanitary Bins Kenya</h2>
                                 <span className="position">Description</span>
-                                <p>SME Business Magazine is a dynamic and comprehensive business news platform designed to cater to small and medium enterprises. Built using WordPress for content management and Next.js for enhanced performance and user experience, this site combines the flexibility of WordPress with the speed and modern capabilities of Next.js.</p>
-                                <div className="team__details-info">
+                                <p>Sanitary Bins Kenya is a trusted provider of washroom hygiene solutions, dedicated to promoting period dignity and enhancing sanitary standards across businesses and institutions. With over 13 years of experience, the company partners with organizations of all sizes to deliver tailored hygiene services, from menstrual care to hand hygiene and odor control. Their commitment to sustainability and social responsibility ensures a cleaner, more comfortable experience for employees, customers, and visitors.</p>
+                                <div className="team__details-info"> 
                                     <ul className="list-wrap">
-                                        <li>
-                                        <FaGlobe />
-                                            <a href='https://smetalks.co.ke/' target='_blank'>View site</a>
+                                         <li>
+                                         <FaGlobe />
+                                            <a href='https://sanitarybins.co.ke/' target='_blank'>View site</a>
                                         </li>
                                         
                                     </ul>
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>

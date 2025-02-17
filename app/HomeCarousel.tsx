@@ -53,7 +53,7 @@ export default function HomeCarousel() {
       <img src="/assets/img/brand/maseno.png"/>
       </div>
       <div>
-      <img src="/assets/img/brand/sme-talks.png" width={150}/>
+      <img src="/assets/img/brand/sanitarybins-logo.webp" width={150}/>
       </div>
       <div>
       <img src="/assets/img/brand/tom-mboya.png"/>
