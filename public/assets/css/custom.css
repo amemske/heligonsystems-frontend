@@ -71,3 +71,7 @@
 .pricing__price{
     display: none;
 }
+
+body{
+    background: #ffffff !important;
+}
