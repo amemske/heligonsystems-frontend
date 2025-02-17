@@ -31659,10 +31659,11 @@ textarea {
 }
 
 .banner-content .title {
-    font-size: 60px;
+    font-size: 50px;
     margin-bottom: 20px;
     line-height: 1.1;
     text-transform: capitalize;
+    font-weight: 4;
 }
 
 @media (max-width: 1199.98px) {
@@ -31687,7 +31688,8 @@ textarea {
     margin-bottom: 30px;
     color: #383952;
     text-transform: capitalize;
-    width: 90%;
+    width: 100%;
+    font-size:21px;
 }
 
 @media (max-width: 1199.98px) {
@@ -45579,7 +45581,7 @@ blockquote p {
 /*# sourceMappingURL=main.css.map */
 
 .banner-bg {
-    min-height: 470px;
+    min-height: 370px;
 }
 
 .project-area {

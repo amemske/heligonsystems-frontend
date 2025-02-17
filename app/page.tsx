@@ -14,21 +14,22 @@ export default function Home() {
 <main className="fix">
 
        
-        <section className="banner-area banner-bg" >
-            <div className="container text-center d-sm-block">
-                <div className="row">
-                    <div className="col-lg-6">
-                        <div className="banner-content">
-                            <h1 className="title text-white">Achieve Success with Expert Web & Mobile Solution</h1>
-                            <p className="text-white">Explore our comprehensive services for digital transformation. From strategic consultation to cutting-edge software development, web design, and mobile app development, we're here to help you progress.</p>
-
-                        </div>
-
-                    </div>
+<section className="banner-area banner-bg position-relative">
+    <video autoPlay loop muted playsInline className="video-bg">
+        <source src="/assets/videos/heligon_hero3.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+    <div className="container text-center d-sm-block">
+        <div className="row">
+            <div className="col-lg-12">
+                <div className="banner-content">
+                    <h3 className="title text-white">Transforming Ideas <br /> into Innovative Apps.</h3>
+                    <p className="text-white">End-to-End Solutions for iOS, Android, and Web Apps.</p>
                 </div>
-
             </div>
-        </section>
+        </div>
+    </div>
+</section>
        
 
        

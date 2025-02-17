@@ -75,3 +75,28 @@
 body{
     background: #ffffff !important;
 }
+ul.logo {
+    margin: 0;
+}
+
+.banner-area {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 400px; /* Full-screen height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.video-bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 400px;
+    object-fit: cover; /* Ensure the video covers the section */
+    z-index: -1;
+}
